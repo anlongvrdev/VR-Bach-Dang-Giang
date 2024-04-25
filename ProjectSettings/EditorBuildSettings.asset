@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/BDGStart.unity
+    guid: 532515430758b4572af264eb7bc437e0
+  - enabled: 0
+    path: Assets/Scenes/BachDangGiang/BDG1.unity
+    guid: 21621d1ae879b4de6997ff47b9dc01c3
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/1/1.1.unity
+    guid: 98ca3e2ff78058847aef1629cf6df73b
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/1/1.2.unity
+    guid: 29f499da3f1061b43b0e69a99f03b484
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/1/1.3.unity
+    guid: c684876a0fb175f4a833142d4e0ffce6
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.1.unity
+    guid: 5e027e087e38a0d47a4cfa2d037ac396
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.2.unity
+    guid: 7e923c86b1895ba4e92fb58ef7ce8025
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.3.unity
+    guid: 4e118b497ad3bc1469ef4382523eec9e
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.4.unity
+    guid: d13ef0dc66addf84ca8845a08cc8cd80
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.5.unity
+    guid: d7d62ecd2e9622c498a16e2003f635dd
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/2/2.6.unity
+    guid: bf33d1c72c092e1449f3c9f4d6fa7c1d
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/3/3.1.unity
+    guid: a8e223716ac05c449993367eb1f64e64
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/3/3.2.unity
+    guid: 55a63ad15cc8ab94092453cc11a45dc0
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/3/3.3.unity
+    guid: 2d7bb9166a69b5643ae6f9be77a45289
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/4/4.1.unity
+    guid: 6c8de81940147484f8970d38f7539ce9
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/4/4.2.unity
+    guid: 41b0baefebc8da944945099374a80817
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/4/4.3.unity
+    guid: 7032f9a7118da06488d565dcd2a64139
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/4/4.4.unity
+    guid: 0f20f4f7108307c4a93734bcac733b3f
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.1.unity
+    guid: 280ff79310d98b7448636ea644b8e0eb
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.2.unity
+    guid: 0b4d0dd45e96f7f43a7c9ef424f4b784
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.3.unity
+    guid: 27c89f9cad3f0cf45b74d72ec4984215
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.4.unity
+    guid: 118d2d646e27454449727739df3550db
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.5.unity
+    guid: f5c35dde8a49d0f478bcb5521f55c64c
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.6.unity
+    guid: 2a764e88bf3c2ab4890273ffb7940d1a
+  - enabled: 1
+    path: Assets/Scenes/BachDangGiang/5/5.7.unity
+    guid: e622a3bdc756e94488e83b6982f9b0fb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
